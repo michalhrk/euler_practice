@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "TypeScript",
+            "type": "node",
+            "request": "launch",
+            "cwd": "${workspaceRoot}",
+            "program": "${workspaceRoot}/src/app.ts",
+            "stopOnEntry": false,
+            "sourceMaps": true,
+            "outDir": null
+        }
+    ]
+}
